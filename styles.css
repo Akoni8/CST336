@@ -4,7 +4,7 @@ body {
 }
 
 header, main, nav, footer {
-    text-align: center;
+    text-align: center; 
 }
 
 nav a {
@@ -23,6 +23,12 @@ nav a:hover {
 
 figure, div {
     float:left;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-bottom:0px;
 }
 
 #me, #welcome-text {
