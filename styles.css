@@ -25,12 +25,6 @@ figure, div {
     float:left;
 }
 
-h1 {
-    font-family: 'Pacifico', cursive;
-    font-size: 4em;
-    margin-bottom:0px;
-}
-
 #me, #welcome-text {
     float: left;
 }
@@ -73,4 +67,9 @@ ul {
 
 .hobby {
     color: yellow;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    color:white;
 }
